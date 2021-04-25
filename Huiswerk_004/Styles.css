@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(216, 238, 225);
+    color: rgb(197, 197, 197);
+
+    font-family: Arial, Helvetica;
+    font-size: 16px;
+    font-weight:16px;
+
+    line-height: 1.6em;
+    margin: 0;
+}
+
+h1 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(96, 103, 105);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid rgb(158, 156, 156)
+    }
+
+h2{
+    background-color: rgb(96, 103, 105);
+    color: snow;
+}
+
+.black-border {
+
+    background-color: rgb(14, 19, 16);
+    width: 80%;
+    margin: auto    
+
+}
